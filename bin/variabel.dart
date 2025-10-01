@@ -1,5 +1,5 @@
 void main(){
   String nama;
-  nama = 'Raihan Mukhlash Azhim';
+  nama = 'Raihan Mukhlash azhim';
   print(nama);
 }
