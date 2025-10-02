@@ -1,5 +1,4 @@
 void main() {
-  void main() {
   var inputstring = '1000';
   var inputint = int.parse(inputstring);        
   var inputdouble = double.parse(inputstring);  
@@ -7,8 +6,8 @@ void main() {
   var doublefromint = inputint.toDouble();      
   var intfromdouble = inputdouble.toInt();      
 
-  var stringfromint = doublefromint.toString(); 
-  var stringfromdouble = inputdouble.toString();   
+  var stringfromint = doublefromint.toString();     
+  var stringfromdouble = inputdouble.toString();    
 
   print(inputint);        
   print(inputdouble);     
@@ -16,7 +15,4 @@ void main() {
   print(intfromdouble);   
   print(stringfromint);   
   print(stringfromdouble);
-}
-
-   
 }
