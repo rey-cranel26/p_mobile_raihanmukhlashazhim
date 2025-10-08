@@ -8,5 +8,7 @@ void main(){
   person['third']='azhim';
 
   print(person['third']);
+  // print(person['first'] ='rey')
+
 
 }
