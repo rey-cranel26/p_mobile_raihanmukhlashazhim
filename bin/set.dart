@@ -8,6 +8,7 @@ void main(){
   names.add('raihan');
   names.add('mukhlash');
   names.add('azhim');
+  names.add('Azhim');
 
   print(names);
 
