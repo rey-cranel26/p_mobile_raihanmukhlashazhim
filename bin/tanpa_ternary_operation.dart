@@ -1,5 +1,5 @@
 void main(){
-  var nilai = 80;
+  var nilai = 70;
   String ucapan;
 
   if (nilai >= 80){
