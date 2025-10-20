@@ -4,6 +4,6 @@ void main(){
 
   int? nullablenumber;
   if(nullablenumber !=null){
-    int number =nullablenumber;
+    int number = nullablenumber;
   }
 }
