@@ -1,5 +1,5 @@
 void main(){
-  int number1;
+  int number1 =0;
   int? number2;
 
 
