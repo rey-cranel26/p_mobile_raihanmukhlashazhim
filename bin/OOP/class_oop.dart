@@ -1,0 +1,8 @@
+class person{
+
+}
+
+void main(){
+  
+
+}
