@@ -1,12 +1,11 @@
 void main() {
-  var person = Person('amalia');
-  person.sayGoodBye('Raihan'); 
+  var person = Person();
+  person.name = "amalia";
+  person.sayGoodBye("rey"); 
 }
 
 class Person {
-  String name;
-
-  Person(this.name);
+  String name = '';
 }
 
 
