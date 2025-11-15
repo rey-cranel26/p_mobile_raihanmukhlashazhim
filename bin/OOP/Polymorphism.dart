@@ -13,6 +13,10 @@ class VicePresident extends Manager{
 
 }
 
+
+void SayHello(Employe employe){
+print('helo ${employe.name}');
+}
 void main(){
   Employe employe =Employe('rey');
   print(employe);
@@ -23,5 +27,9 @@ void main(){
   employe=VicePresident('eko');
   print(employe);
 
+
+SayHello(Employe('rey'));
+SayHello(Manager('lia'));
+SayHello(VicePresident('eko'));
 
 }
