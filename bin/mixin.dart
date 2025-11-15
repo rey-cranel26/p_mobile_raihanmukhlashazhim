@@ -29,7 +29,7 @@ class Video with Playable, Stoppable {
 
 
 class Audio with Playable, Stoppable {
-  @override
+ 
   String? name = "Lagu Pop Terbaru";
 }
 
