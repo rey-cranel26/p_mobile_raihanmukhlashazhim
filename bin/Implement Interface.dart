@@ -19,9 +19,7 @@ class Avanza implements Car {
 
 void main() {
   
-  var myCar = Avanza();
-
-  
+  var myCar = Avanza(); 
   print('Nama Mobil: ${myCar.name}');
   myCar.drive();
   print('Jumlah Ban: ${myCar.getTire()}');
